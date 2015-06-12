@@ -13,3 +13,7 @@ A: by using git add to staging area and make commit per logical commits.
 Q:What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 A:When I want to test new featur in my code it or try new derive I would be great to do it in a new branch to keep the master branch clean on alot of heads.
+
+Q:How do the diagrams help you visualize the branch structure?
+
+A:it helps by providing visual graph of different commits in those branches.
