@@ -17,3 +17,7 @@ A:When I want to test new featur in my code it or try new derive I would be grea
 Q:How do the diagrams help you visualize the branch structure?
 
 A:it helps by providing visual graph of different commits in those branches.
+
+Q:What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A:the result would be sum those two branches in one branch which will also include those branches commits and git system will sort them in timestamp order, we use diagram to make it easy to see branches and their commits.
