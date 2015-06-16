@@ -21,3 +21,7 @@ A:it helps by providing visual graph of different commits in those branches.
 Q:What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A:the result would be sum those two branches in one branch which will also include those branches commits and git system will sort them in timestamp order, we use diagram to make it easy to see branches and their commits.
+
+Q:What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A:well of course manual merging is more better because master owner will always deside which merge to accept, but auto merge will break code most off the time.
