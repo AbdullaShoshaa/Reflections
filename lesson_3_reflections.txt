@@ -14,10 +14,9 @@ A:fork is for cloning a repo to my github account, I would use it if I want to c
 clone is used to create a copy of a repo to my local machine, I use it download a repo loclly.
 branch is used to copy a branch into new branch, I would use it for doing changes to a project but don't want to affect the original branch. 
 
-What is the benefit of having a copy of the last known state of the remote
-stored locally?
+Q:What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    Fill in your answer here
+A:so it won't happen any conflicts when I do commits,so I need to up date the local repo and then do commits.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
