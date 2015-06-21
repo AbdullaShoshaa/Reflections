@@ -24,7 +24,8 @@ and what would be harder?
 A:It would be a mess since all I used to do is send the code via email,
 of course using git system; its hard to understand at the beggining but its awesome to use.
 
-When would you want to make changes in a separate branch rather than directly in
+Q:When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+A:I will do changes to other branch when someone collaborate with me on a project and I don't want to get coflicts everytime I pull his changes,
+doing commits on master branch is more easier to manage but commiting on new branch can save me the husle to resolve conflicts alot every day.
