@@ -18,10 +18,11 @@ Q:What is the benefit of having a copy of the last known state of the remote sto
 
 A:so it won't happen any conflicts when I do commits,so I need to up date the local repo and then do commits.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+Q:How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+A:It would be a mess since all I used to do is send the code via email,
+of course using git system; its hard to understand at the beggining but its awesome to use.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
